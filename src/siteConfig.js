@@ -1,33 +1,33 @@
 // Auto-generated siteConfig for London City Plumbers
-// Generated: 2026-04-05T08:05:02.460Z
+// Generated: 2026-04-05T08:17:55.964Z
 
 const siteConfig = {
   "business": {
     "name": "London City Plumbers",
     "ownerName": "London City Plumbers",
     "ownerFirstName": "London",
-    "tagline": "Reliable plumbing in London",
-    "description": "London City Plumbers offers expert plumbing services throughout London. With over a decade of experience, they ensure quality and reliability.",
-    "story": "London City Plumbers has been serving the London area for 10 years. Known for their dependable service, they handle a wide range of plumbing needs. Their team is committed to providing top-notch service to every customer.",
+    "tagline": "Reliable plumbing in Bexleyheath",
+    "description": "London City Plumbers offers expert plumbing services in Bexleyheath. Specializing in boiler installations, emergency plumbing, and bathroom replacements.",
+    "story": "London City Plumbers has been serving the Bexleyheath community for 10 years. They provide a range of services including boiler installations and emergency plumbing. Their team is dedicated to delivering quality and reliable service.",
     "founded": 0,
     "licenseNumber": "",
     "insuranceProvider": "",
     "insuranceAmount": "",
     "photoUrl": "",
-    "logoUrl": "",
+    "logoUrl": "https://static.wixstatic.com/media/84ac92_3f7a4616cd88468993f25b5526db44c5%7Emv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/84ac92_3f7a4616cd88468993f25b5526db44c5%7Emv2.png",
     "teamSize": 0
   },
   "contact": {
-    "phone": "",
-    "phoneDisplay": "",
+    "phone": "+447546185778",
+    "phoneDisplay": "+44 7546 185778",
     "email": "",
-    "address": "",
-    "city": "",
-    "state": "",
-    "zip": "",
-    "fullAddress": "",
-    "emergencyPhone": "",
-    "emergencyPhoneDisplay": "",
+    "address": "22 Fox Hollow Dr",
+    "city": "Bexleyheath",
+    "state": "United",
+    "zip": "Kingdom",
+    "fullAddress": "22 Fox Hollow Dr, Bexleyheath DA7 4UR, United Kingdom",
+    "emergencyPhone": "+447546185778",
+    "emergencyPhoneDisplay": "+44 7546 185778",
     "hours": "Call for hours | Emergency 24/7"
   },
   "credentials": {
@@ -35,30 +35,30 @@ const siteConfig = {
     "jobsCompleted": 2000,
     "satisfactionRate": 98,
     "responseTime": 45,
-    "googleRating": 0,
+    "googleRating": 4.7,
     "reviewCount": 0,
     "warrantyYears": 1
   },
   "hero": {
     "backgroundImage": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=2000&q=80",
-    "headline": "Top Plumbers in London",
-    "subheadline": "Expert plumbing services available 24/7",
+    "headline": "Expert Plumbing in Bexleyheath",
+    "subheadline": "Your trusted local plumbers for all emergencies and installations.",
     "ctaText": "Get a Free Quote",
     "emergencyCtaText": "Emergency? Call Now",
-    "urgencyBadge": "24/7 Service Available"
+    "urgencyBadge": "24/7 Emergency Service"
   },
   "trustBar": [
+    {
+      "icon": "Star",
+      "label": "4.7 Star Rating"
+    },
     {
       "icon": "Shield",
       "label": "10 Years Experience"
     },
     {
-      "icon": "Star",
-      "label": "Reliable Service"
-    },
-    {
       "icon": "CheckCircle",
-      "label": "Licensed & Insured"
+      "label": "Reliable Service"
     },
     {
       "icon": "Award",
@@ -66,7 +66,7 @@ const siteConfig = {
     },
     {
       "icon": "Clock",
-      "label": "24/7 Availability"
+      "label": "Fast Response Time"
     }
   ],
   "stats": [
@@ -93,51 +93,36 @@ const siteConfig = {
   ],
   "services": [
     {
-      "name": "Emergency Plumbing",
-      "description": "24/7 emergency plumbing services to address urgent issues.",
+      "name": "Boiler Installations and Repairs",
+      "description": "Professional boiler installation and repair services to ensure your home stays warm.",
       "icon": "Wrench",
-      "priceRange": "£80-£150",
+      "priceRange": "£150-£500",
+      "popular": true,
+      "features": [
+        "Certified technicians",
+        "Energy-efficient solutions"
+      ]
+    },
+    {
+      "name": "Emergency Plumbing",
+      "description": "24/7 emergency plumbing services to handle any urgent issues.",
+      "icon": "Emergency",
+      "priceRange": "£100-£300",
       "popular": true,
       "features": [
         "Rapid response",
-        "Licensed professionals",
-        "Guaranteed work"
+        "Available 24/7"
       ]
     },
     {
-      "name": "Leak Detection",
-      "description": "Accurate leak detection to prevent water damage.",
-      "icon": "Droplet",
-      "priceRange": "£50-£120",
+      "name": "Bathrooms and Shower Replacements",
+      "description": "Complete bathroom and shower replacement services for a modern look.",
+      "icon": "Shower",
+      "priceRange": "£500-£2000",
       "popular": false,
       "features": [
-        "Non-invasive techniques",
-        "Advanced equipment",
-        "Expert diagnosis"
-      ]
-    },
-    {
-      "name": "Drain Cleaning",
-      "description": "Professional drain cleaning to clear blockages.",
-      "icon": "Pipe",
-      "priceRange": "£70-£130",
-      "popular": true,
-      "features": [
-        "High-pressure jetting",
-        "Safe for pipes",
-        "Long-lasting results"
-      ]
-    },
-    {
-      "name": "Water Heater Repair",
-      "description": "Efficient repair services for all types of water heaters.",
-      "icon": "Heater",
-      "priceRange": "£100-£200",
-      "popular": false,
-      "features": [
-        "All brands serviced",
-        "Energy-efficient solutions",
-        "Quick turnaround"
+        "Custom designs",
+        "High-quality materials"
       ]
     }
   ],
@@ -145,42 +130,42 @@ const siteConfig = {
   "testimonials": [],
   "serviceAreas": [
     {
-      "name": "Greenwich",
-      "description": "Serving the Greenwich area with prompt plumbing services.",
-      "responseTime": "45 min"
-    },
-    {
-      "name": "Lewisham",
-      "description": "Reliable plumbing solutions in Lewisham.",
-      "responseTime": "45 min"
-    },
-    {
       "name": "Bexley",
-      "description": "Expert plumbers available in Bexley.",
+      "description": "Quick and reliable plumbing services in Bexley.",
       "responseTime": "45 min"
     },
     {
-      "name": "Bromley",
-      "description": "Quality plumbing services for Bromley residents.",
+      "name": "Sidcup",
+      "description": "Expert plumbing solutions in Sidcup.",
+      "responseTime": "45 min"
+    },
+    {
+      "name": "Dartford",
+      "description": "Trusted plumbers available in Dartford.",
+      "responseTime": "45 min"
+    },
+    {
+      "name": "Greenwich",
+      "description": "Efficient plumbing services in Greenwich.",
       "responseTime": "45 min"
     }
   ],
   "faq": [
     {
-      "question": "What should I do in case of a plumbing emergency?",
-      "answer": "Shut off the main water valve and call a professional plumber immediately."
+      "question": "What should I do if my drain is clogged?",
+      "answer": "Try using a plunger or a drain snake to clear the blockage. If the problem persists, contact a professional plumber."
     },
     {
-      "question": "How often should I have my plumbing inspected?",
-      "answer": "It's recommended to have a plumbing inspection annually to prevent issues."
+      "question": "How often should I have my plumbing system checked?",
+      "answer": "It's recommended to have your plumbing system inspected annually to prevent major issues."
     },
     {
-      "question": "What are common signs of a plumbing issue?",
-      "answer": "Unusual noises, slow drains, and water stains are common signs of plumbing issues."
+      "question": "Can I fix a leaking tap myself?",
+      "answer": "Yes, if you're comfortable with basic tools, you can attempt to fix a leaking tap. However, if you're unsure, it's best to call a plumber."
     },
     {
-      "question": "How can I prevent pipes from freezing in winter?",
-      "answer": "Insulate your pipes and keep your home heated to prevent freezing."
+      "question": "Is it safe to use chemical drain cleaners?",
+      "answer": "Chemical drain cleaners can damage pipes if used frequently. It's safer to use mechanical methods or call a plumber."
     }
   ],
   "costEstimator": {
@@ -201,12 +186,11 @@ const siteConfig = {
   },
   "chatbot": {
     "name": "PlumbBot",
-    "greeting": "Hello! How can I assist you with your plumbing needs today?",
+    "greeting": "Hi there! How can I assist you with your plumbing needs today?",
     "quickReplies": [
-      "Emergency Plumbing",
-      "Schedule a Service",
-      "Get a Quote",
-      "Speak to an Expert"
+      "Book a Service",
+      "Emergency Help",
+      "Get a Quote"
     ]
   },
   "social": {
