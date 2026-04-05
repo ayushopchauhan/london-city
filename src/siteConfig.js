@@ -436,192 +436,96 @@ const siteConfig = {
         "month": "January",
         "season": "winter",
         "tasks": [
-          {
-            "task": "Check for Frozen Pipes",
-            "description": "Inspect pipes for freezing and insulate if necessary.",
-            "priority": "high"
-          },
-          {
-            "task": "Inspect Water Heater",
-            "description": "Ensure the water heater is functioning efficiently.",
-            "priority": "medium"
-          }
+          "Check for Frozen Pipes",
+          "Inspect Water Heater"
         ]
       },
       {
         "month": "February",
         "season": "winter",
         "tasks": [
-          {
-            "task": "Test Sump Pump",
-            "description": "Ensure the sump pump is operational for spring thaw.",
-            "priority": "high"
-          },
-          {
-            "task": "Check for Leaks",
-            "description": "Inspect all visible pipes for leaks.",
-            "priority": "medium"
-          }
+          "Test Sump Pump",
+          "Check for Leaks"
         ]
       },
       {
         "month": "March",
         "season": "spring",
         "tasks": [
-          {
-            "task": "Inspect Gutters",
-            "description": "Clear gutters and downspouts of debris.",
-            "priority": "medium"
-          },
-          {
-            "task": "Test Outdoor Faucets",
-            "description": "Check outdoor faucets for leaks after winter.",
-            "priority": "low"
-          }
+          "Inspect Gutters",
+          "Test Outdoor Faucets"
         ]
       },
       {
         "month": "April",
         "season": "spring",
         "tasks": [
-          {
-            "task": "Service Water Heater",
-            "description": "Flush the water heater to remove sediment buildup.",
-            "priority": "high"
-          },
-          {
-            "task": "Inspect Plumbing Fixtures",
-            "description": "Check all fixtures for proper operation.",
-            "priority": "medium"
-          }
+          "Service Water Heater",
+          "Inspect Plumbing Fixtures"
         ]
       },
       {
         "month": "May",
         "season": "spring",
         "tasks": [
-          {
-            "task": "Check Irrigation System",
-            "description": "Ensure the irrigation system is leak-free and operational.",
-            "priority": "medium"
-          },
-          {
-            "task": "Inspect Sewer Lines",
-            "description": "Have sewer lines inspected for blockages.",
-            "priority": "high"
-          }
+          "Check Irrigation System",
+          "Inspect Sewer Lines"
         ]
       },
       {
         "month": "June",
         "season": "summer",
         "tasks": [
-          {
-            "task": "Inspect Hoses",
-            "description": "Check hoses for leaks and replace if necessary.",
-            "priority": "low"
-          },
-          {
-            "task": "Clean Drains",
-            "description": "Use a natural cleaner to maintain clear drains.",
-            "priority": "medium"
-          }
+          "Inspect Hoses",
+          "Clean Drains"
         ]
       },
       {
         "month": "July",
         "season": "summer",
         "tasks": [
-          {
-            "task": "Inspect Pool Plumbing",
-            "description": "Ensure pool plumbing is free of leaks.",
-            "priority": "medium"
-          },
-          {
-            "task": "Check Water Pressure",
-            "description": "Test water pressure and adjust if necessary.",
-            "priority": "low"
-          }
+          "Inspect Pool Plumbing",
+          "Check Water Pressure"
         ]
       },
       {
         "month": "August",
         "season": "summer",
         "tasks": [
-          {
-            "task": "Inspect Water Softener",
-            "description": "Check and replenish salt levels in the water softener.",
-            "priority": "medium"
-          },
-          {
-            "task": "Check for Mold",
-            "description": "Inspect areas around plumbing for mold growth.",
-            "priority": "high"
-          }
+          "Inspect Water Softener",
+          "Check for Mold"
         ]
       },
       {
         "month": "September",
         "season": "fall",
         "tasks": [
-          {
-            "task": "Winterize Outdoor Faucets",
-            "description": "Prepare outdoor faucets for winter by draining and covering.",
-            "priority": "high"
-          },
-          {
-            "task": "Inspect Roof for Leaks",
-            "description": "Check the roof for leaks before the rainy season.",
-            "priority": "medium"
-          }
+          "Winterize Outdoor Faucets",
+          "Inspect Roof for Leaks"
         ]
       },
       {
         "month": "October",
         "season": "fall",
         "tasks": [
-          {
-            "task": "Check Boiler",
-            "description": "Ensure the boiler is ready for winter use.",
-            "priority": "high"
-          },
-          {
-            "task": "Inspect Drains",
-            "description": "Clear leaves and debris from outdoor drains.",
-            "priority": "medium"
-          }
+          "Check Boiler",
+          "Inspect Drains"
         ]
       },
       {
         "month": "November",
         "season": "fall",
         "tasks": [
-          {
-            "task": "Inspect Insulation",
-            "description": "Check pipe insulation to prevent freezing.",
-            "priority": "high"
-          },
-          {
-            "task": "Test Heating System",
-            "description": "Ensure the heating system is operational.",
-            "priority": "medium"
-          }
+          "Inspect Insulation",
+          "Test Heating System"
         ]
       },
       {
         "month": "December",
         "season": "winter",
         "tasks": [
-          {
-            "task": "Monitor for Frozen Pipes",
-            "description": "Keep an eye on pipes during cold snaps.",
-            "priority": "high"
-          },
-          {
-            "task": "Check Water Heater",
-            "description": "Ensure the water heater is set to the correct temperature.",
-            "priority": "medium"
-          }
+          "Monitor for Frozen Pipes",
+          "Check Water Heater"
         ]
       }
     ]
