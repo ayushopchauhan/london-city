@@ -170,10 +170,10 @@ export default function About() {
                   className="text-sm font-semibold text-[var(--color-light-text)] mb-0.5"
                   style={{ fontFamily: 'var(--font-heading)' }}
                 >
-                  {creds.reviewCount ?? '50'}+
+                  {creds.jobsCompleted ?? '1000'}+
                 </p>
                 <p className="text-[10px] sm:text-xs text-[var(--color-light-muted)] uppercase tracking-wider">
-                  Reviews
+                  Jobs Completed
                 </p>
               </div>
             </div>
