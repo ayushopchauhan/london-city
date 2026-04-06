@@ -96,7 +96,7 @@ export default function Services() {
               <a
                 key={i}
                 href="#contact"
-                className="reveal group relative block rounded-xl card-gradient-border p-6 lg:p-7 cursor-pointer w-full md:w-[calc(50%-0.625rem)] lg:w-[calc(33.333%-1rem)]"
+                className="reveal group relative block rounded-xl card-gradient-border p-5 sm:p-6 lg:p-7 cursor-pointer w-full md:w-[calc(50%-0.625rem)] lg:w-[calc(33.333%-1rem)]"
               >
                 {/* Popular badge */}
                 {popular && (

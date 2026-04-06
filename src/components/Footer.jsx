@@ -26,7 +26,7 @@ export default function Footer() {
 
   return (
     <>
-      <footer className="bg-[#070F1A] relative pt-0 pb-8 grain-overlay overflow-hidden">
+      <footer className="bg-[#070F1A] relative pt-0 pb-24 md:pb-8 grain-overlay overflow-hidden">
         {/* Floating glow orb */}
         <div className="glow-orb glow-orb-blue w-[300px] h-[300px]" style={{ top: '20%', right: '5%' }} />
 

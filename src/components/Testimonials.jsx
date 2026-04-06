@@ -136,7 +136,7 @@ function TestimonialCard({ testimonial, index }) {
 
   return (
     <div
-      className={`reveal group min-w-[85vw] sm:min-w-[70vw] md:min-w-0 snap-center card-dark-gradient rounded-2xl p-6 md:p-8 border-l-2 border-l-[var(--color-blue)]/40 hover:border-l-[var(--color-blue)] transition-all duration-300`}
+      className={`reveal group min-w-[calc(100vw-2rem)] sm:min-w-[70vw] md:min-w-0 snap-center card-dark-gradient rounded-2xl p-5 sm:p-6 md:p-8 border-l-2 border-l-[var(--color-blue)]/40 hover:border-l-[var(--color-blue)] transition-all duration-300`}
       style={{ transitionDelay: `${index * 100}ms` }}
     >
       {/* Quote Icon */}
